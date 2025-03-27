@@ -6,7 +6,7 @@ function exibirTextoNaTela(tag, texto) {
 }
 
 function exibirMensagemInicial() {
-    exibirTextoNaTela('h1', 'Cálculo da Taxa Metabólica Basal');
+    exibirTextoNaTela('h1', 'Calcular Taxa Metabólica Basal');
 }
 
 exibirMensagemInicial();
